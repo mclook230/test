@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mohammed.ali@snc</sys_created_by>
+        <sys_created_on>2017-10-11 09:16:43</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>5a4637a4db798f005f24f1910f961943</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_appabc_test_abc.x_snc_appabc.test_abc_user</sys_name>
+        <sys_package display_value="appABC" source="x_snc_appabc">0570ffe8dbb1cf00fa0e363ffe961907</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="appABC">0570ffe8dbb1cf00fa0e363ffe961907</sys_scope>
+        <sys_security_acl display_value="x_snc_appabc_test_abc">9e4637a4db798f005f24f1910f961940</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_5a4637a4db798f005f24f1910f961943</sys_update_name>
+        <sys_updated_by>mohammed.ali@snc</sys_updated_by>
+        <sys_updated_on>2017-10-11 09:16:43</sys_updated_on>
+        <sys_user_role display_value="x_snc_appabc.test_abc_user" name="x_snc_appabc.test_abc_user">864637a4db798f005f24f1910f961904</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
